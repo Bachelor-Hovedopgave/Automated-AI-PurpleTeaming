@@ -1,0 +1,2 @@
+2026/05/21 12:51:26 [notice] 29#29: signal process started
+2026/05/21 15:12:53 [warn] 36#36: *2500 an upstream response is buffered to a temporary file /var/cache/nginx/proxy_temp/1/00/0000000001 while reading upstream, client: 192.168.0.100, server: , request: "GET /assets/public/images/uploads/IMG_4253.jpg HTTP/1.1", upstream: "http://172.18.0.3:3000/assets/public/images/uploads/IMG_4253.jpg", host: "192.168.0.139:8080", referrer: "http://192.168.0.139:8080/"

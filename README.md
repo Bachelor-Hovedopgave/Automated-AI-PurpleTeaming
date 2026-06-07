@@ -6,6 +6,8 @@ Bachelor project about using Generative AI as decision support in offensive and 
 - OWASP Juice Shop
 - Docker
 - Kali Linux
-- Wazuh
+- Velociraptor
+- SOF-ELK
+- Nginx Server
 - AI-assisted pentesting
 - AI-assisted log analysis
