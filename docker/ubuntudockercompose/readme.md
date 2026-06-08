@@ -1,4 +1,5 @@
-Install Docker + Compose
+Install Docker + Compose for installation of containers automaticly.
+Follow this cmd line guide step by step for installation.
 
 sudo apt install -y ca-certificates curl gnupg lsb-release
 
